@@ -2287,3 +2287,450 @@ ERROR [24 de Março de 2017 - 13:24:51] impossivel decodificar: q() ex: java.lan
 WARNING [24 de Março de 2017 - 13:24:51] [ RJAVA ] waiting user iteration. (68)
 INFO [24 de Março de 2017 - 13:25:01] escreveu: [ECHO]> q()
 
+INFO [18 de Abril de 2017 - 19:42:52] [ ARGS ][LIVE, , INFO, --vanilla]
+INFO [18 de Abril de 2017 - 19:42:53] [ RJAVA ] Creating Rengine (with arguments)
+INFO [18 de Abril de 2017 - 19:42:55] escreveu: [CONSOLE][0]
+
+INFO [18 de Abril de 2017 - 19:42:55] escreveu: [CONSOLE][0]R version 3.3.3 (2017-03-06) -- "Another Canoe"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+
+INFO [18 de Abril de 2017 - 19:42:55] escreveu: [CONSOLE][0]R é um software livre e vem sem GARANTIA ALGUMA.
+Você pode redistribuí-lo sob certas circunstâncias.
+Digite 'license()' ou 'licence()' para detalhes de distribuição.
+
+
+INFO [18 de Abril de 2017 - 19:42:55] escreveu: [CONSOLE][0]R é um projeto colaborativo com muitos contribuidores.
+Digite 'contributors()' para obter mais informações e
+'citation()' para saber como citar o R ou pacotes do R em publicações.
+
+
+INFO [18 de Abril de 2017 - 19:42:55] escreveu: [CONSOLE][0]Digite 'demo()' para demonstrações, 'help()' para o sistema on-line de ajuda,
+ou 'help.start()' para abrir o sistema de ajuda em HTML no seu navegador.
+Digite 'q()' para sair do R.
+
+
+INFO [18 de Abril de 2017 - 19:42:56] [ RJAVA ] Rengine created, waiting for R
+INFO [18 de Abril de 2017 - 19:42:56] Resultado PID: 5850 :inicializando processo de recuperação de status: 5850
+INFO [18 de Abril de 2017 - 19:42:56] processo de obtenção de status iniciado;
+INFO [18 de Abril de 2017 - 19:42:56] [ RJAVA ] Now the console is yours ... have fun
+WARNING [18 de Abril de 2017 - 19:42:56] Resultado PID: 5850 :não há headers ou values disponiveis para status.
+INFO [18 de Abril de 2017 - 19:42:56] escreveu: [BUSY]default
+INFO [18 de Abril de 2017 - 19:42:56] escreveu: [PROMPT]> 
+ERROR [18 de Abril de 2017 - 19:42:56] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:42:56] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:42:57] [ RJAVA ] waiting user iteration. (1)
+WARNING [18 de Abril de 2017 - 19:42:57] Resultado PID: 5850 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:42:57] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:42:57] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:42:58] [ RJAVA ] waiting user iteration. (2)
+WARNING [18 de Abril de 2017 - 19:42:58] Resultado PID: 5850 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:42:58] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:42:58] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:42:59] [ RJAVA ] waiting user iteration. (3)
+ERROR [18 de Abril de 2017 - 19:42:59] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:42:59] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:00] [ RJAVA ] waiting user iteration. (4)
+ERROR [18 de Abril de 2017 - 19:43:00] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:00] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:01] [ RJAVA ] waiting user iteration. (5)
+ERROR [18 de Abril de 2017 - 19:43:01] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:01] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:02] [ RJAVA ] waiting user iteration. (6)
+ERROR [18 de Abril de 2017 - 19:43:02] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:02] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:03] [ RJAVA ] waiting user iteration. (7)
+ERROR [18 de Abril de 2017 - 19:43:03] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:03] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:04] [ RJAVA ] waiting user iteration. (8)
+ERROR [18 de Abril de 2017 - 19:43:04] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:04] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:05] [ RJAVA ] waiting user iteration. (9)
+ERROR [18 de Abril de 2017 - 19:43:05] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:05] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:06] [ RJAVA ] waiting user iteration. (10)
+ERROR [18 de Abril de 2017 - 19:43:06] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:06] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:07] [ RJAVA ] waiting user iteration. (11)
+ERROR [18 de Abril de 2017 - 19:43:07] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:07] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:08] [ RJAVA ] waiting user iteration. (12)
+ERROR [18 de Abril de 2017 - 19:43:08] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:08] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:09] [ RJAVA ] waiting user iteration. (13)
+ERROR [18 de Abril de 2017 - 19:43:09] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:09] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:10] [ RJAVA ] waiting user iteration. (14)
+ERROR [18 de Abril de 2017 - 19:43:10] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:10] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:11] [ RJAVA ] waiting user iteration. (15)
+ERROR [18 de Abril de 2017 - 19:43:11] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:11] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:12] [ RJAVA ] waiting user iteration. (16)
+ERROR [18 de Abril de 2017 - 19:43:12] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:12] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:13] [ RJAVA ] waiting user iteration. (17)
+ERROR [18 de Abril de 2017 - 19:43:13] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:13] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:14] [ RJAVA ] waiting user iteration. (18)
+ERROR [18 de Abril de 2017 - 19:43:14] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:14] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:15] [ RJAVA ] waiting user iteration. (19)
+ERROR [18 de Abril de 2017 - 19:43:15] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:15] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:16] [ RJAVA ] waiting user iteration. (20)
+ERROR [18 de Abril de 2017 - 19:43:16] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:16] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:17] [ RJAVA ] waiting user iteration. (21)
+ERROR [18 de Abril de 2017 - 19:43:17] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:17] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"2.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:18] [ RJAVA ] waiting user iteration. (22)
+ERROR [18 de Abril de 2017 - 19:43:18] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:18] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"2.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:19] [ RJAVA ] waiting user iteration. (23)
+ERROR [18 de Abril de 2017 - 19:43:19] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:19] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"2.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:20] [ RJAVA ] waiting user iteration. (24)
+ERROR [18 de Abril de 2017 - 19:43:20] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:20] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:21] [ RJAVA ] waiting user iteration. (25)
+ERROR [18 de Abril de 2017 - 19:43:21] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:21] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:22] [ RJAVA ] waiting user iteration. (26)
+ERROR [18 de Abril de 2017 - 19:43:22] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:22] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:23] [ RJAVA ] waiting user iteration. (27)
+ERROR [18 de Abril de 2017 - 19:43:23] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:23] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:24] [ RJAVA ] waiting user iteration. (28)
+ERROR [18 de Abril de 2017 - 19:43:24] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:24] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:25] [ RJAVA ] waiting user iteration. (29)
+ERROR [18 de Abril de 2017 - 19:43:25] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:25] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:26] [ RJAVA ] waiting user iteration. (30)
+ERROR [18 de Abril de 2017 - 19:43:26] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:26] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:27] [ RJAVA ] waiting user iteration. (31)
+ERROR [18 de Abril de 2017 - 19:43:27] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:27] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:28] [ RJAVA ] waiting user iteration. (32)
+ERROR [18 de Abril de 2017 - 19:43:28] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:28] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:29] [ RJAVA ] waiting user iteration. (33)
+ERROR [18 de Abril de 2017 - 19:43:29] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:29] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:30] [ RJAVA ] waiting user iteration. (34)
+ERROR [18 de Abril de 2017 - 19:43:30] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:30] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:31] [ RJAVA ] waiting user iteration. (35)
+ERROR [18 de Abril de 2017 - 19:43:31] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:31] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:32] [ RJAVA ] waiting user iteration. (36)
+ERROR [18 de Abril de 2017 - 19:43:32] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:32] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:33] [ RJAVA ] waiting user iteration. (37)
+ERROR [18 de Abril de 2017 - 19:43:33] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:33] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:34] [ RJAVA ] waiting user iteration. (38)
+ERROR [18 de Abril de 2017 - 19:43:34] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:34] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:35] [ RJAVA ] waiting user iteration. (39)
+ERROR [18 de Abril de 2017 - 19:43:35] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:35] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:36] [ RJAVA ] waiting user iteration. (40)
+ERROR [18 de Abril de 2017 - 19:43:36] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:36] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:37] [ RJAVA ] waiting user iteration. (41)
+ERROR [18 de Abril de 2017 - 19:43:37] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:37] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:38] [ RJAVA ] waiting user iteration. (42)
+ERROR [18 de Abril de 2017 - 19:43:38] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:38] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:39] [ RJAVA ] waiting user iteration. (43)
+ERROR [18 de Abril de 2017 - 19:43:39] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:39] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:40] [ RJAVA ] waiting user iteration. (44)
+ERROR [18 de Abril de 2017 - 19:43:40] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:40] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:41] [ RJAVA ] waiting user iteration. (45)
+ERROR [18 de Abril de 2017 - 19:43:41] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:41] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:42] [ RJAVA ] waiting user iteration. (46)
+ERROR [18 de Abril de 2017 - 19:43:42] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:42] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:43] [ RJAVA ] waiting user iteration. (47)
+ERROR [18 de Abril de 2017 - 19:43:43] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:43] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:44] [ RJAVA ] waiting user iteration. (48)
+ERROR [18 de Abril de 2017 - 19:43:44] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:44] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:45] [ RJAVA ] waiting user iteration. (49)
+ERROR [18 de Abril de 2017 - 19:43:45] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:45] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:46] [ RJAVA ] waiting user iteration. (50)
+ERROR [18 de Abril de 2017 - 19:43:46] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:46] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:47] [ RJAVA ] waiting user iteration. (51)
+ERROR [18 de Abril de 2017 - 19:43:47] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:47] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:48] [ RJAVA ] waiting user iteration. (52)
+ERROR [18 de Abril de 2017 - 19:43:49] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:49] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:50] [ RJAVA ] waiting user iteration. (53)
+ERROR [18 de Abril de 2017 - 19:43:50] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:50] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:51] [ RJAVA ] waiting user iteration. (54)
+ERROR [18 de Abril de 2017 - 19:43:51] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:51] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:52] [ RJAVA ] waiting user iteration. (55)
+ERROR [18 de Abril de 2017 - 19:43:52] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:52] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:53] [ RJAVA ] waiting user iteration. (56)
+ERROR [18 de Abril de 2017 - 19:43:53] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:53] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:54] [ RJAVA ] waiting user iteration. (57)
+ERROR [18 de Abril de 2017 - 19:43:54] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:54] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:55] [ RJAVA ] waiting user iteration. (58)
+ERROR [18 de Abril de 2017 - 19:43:55] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:55] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:56] [ RJAVA ] waiting user iteration. (59)
+ERROR [18 de Abril de 2017 - 19:43:56] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:56] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:57] [ RJAVA ] waiting user iteration. (60)
+ERROR [18 de Abril de 2017 - 19:43:57] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:57] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:58] [ RJAVA ] waiting user iteration. (61)
+ERROR [18 de Abril de 2017 - 19:43:58] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:58] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:43:59] [ RJAVA ] waiting user iteration. (62)
+ERROR [18 de Abril de 2017 - 19:43:59] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:43:59] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:00] [ RJAVA ] waiting user iteration. (63)
+ERROR [18 de Abril de 2017 - 19:44:00] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:00] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"2.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:01] [ RJAVA ] waiting user iteration. (64)
+ERROR [18 de Abril de 2017 - 19:44:01] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:01] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"2.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:02] [ RJAVA ] waiting user iteration. (65)
+ERROR [18 de Abril de 2017 - 19:44:02] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:02] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"2.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:03] [ RJAVA ] waiting user iteration. (66)
+ERROR [18 de Abril de 2017 - 19:44:03] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:03] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:04] [ RJAVA ] waiting user iteration. (67)
+ERROR [18 de Abril de 2017 - 19:44:04] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:04] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:05] [ RJAVA ] waiting user iteration. (68)
+ERROR [18 de Abril de 2017 - 19:44:05] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:05] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:06] [ RJAVA ] waiting user iteration. (69)
+ERROR [18 de Abril de 2017 - 19:44:06] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:06] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:07] [ RJAVA ] waiting user iteration. (70)
+ERROR [18 de Abril de 2017 - 19:44:07] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:07] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:08] [ RJAVA ] waiting user iteration. (71)
+ERROR [18 de Abril de 2017 - 19:44:08] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:08] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:09] [ RJAVA ] waiting user iteration. (72)
+ERROR [18 de Abril de 2017 - 19:44:09] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:09] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:10] [ RJAVA ] waiting user iteration. (73)
+ERROR [18 de Abril de 2017 - 19:44:10] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:10] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:11] [ RJAVA ] waiting user iteration. (74)
+ERROR [18 de Abril de 2017 - 19:44:11] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:11] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:12] [ RJAVA ] waiting user iteration. (75)
+ERROR [18 de Abril de 2017 - 19:44:12] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:12] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:13] [ RJAVA ] waiting user iteration. (76)
+ERROR [18 de Abril de 2017 - 19:44:13] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:13] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:14] [ RJAVA ] waiting user iteration. (77)
+ERROR [18 de Abril de 2017 - 19:44:14] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:14] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:15] [ RJAVA ] waiting user iteration. (78)
+ERROR [18 de Abril de 2017 - 19:44:15] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:15] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:16] [ RJAVA ] waiting user iteration. (79)
+ERROR [18 de Abril de 2017 - 19:44:16] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:16] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:17] [ RJAVA ] waiting user iteration. (80)
+ERROR [18 de Abril de 2017 - 19:44:17] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:17] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:18] [ RJAVA ] waiting user iteration. (81)
+ERROR [18 de Abril de 2017 - 19:44:18] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:18] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:19] [ RJAVA ] waiting user iteration. (82)
+ERROR [18 de Abril de 2017 - 19:44:19] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:19] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:20] [ RJAVA ] waiting user iteration. (83)
+ERROR [18 de Abril de 2017 - 19:44:20] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:20] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:21] [ RJAVA ] waiting user iteration. (84)
+ERROR [18 de Abril de 2017 - 19:44:21] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:21] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:22] [ RJAVA ] waiting user iteration. (85)
+ERROR [18 de Abril de 2017 - 19:44:22] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:22] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:23] [ RJAVA ] waiting user iteration. (86)
+ERROR [18 de Abril de 2017 - 19:44:23] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:23] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:24] [ RJAVA ] waiting user iteration. (87)
+ERROR [18 de Abril de 2017 - 19:44:24] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:24] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:25] [ RJAVA ] waiting user iteration. (88)
+ERROR [18 de Abril de 2017 - 19:44:25] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:25] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:26] [ RJAVA ] waiting user iteration. (89)
+ERROR [18 de Abril de 2017 - 19:44:26] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:26] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:27] [ RJAVA ] waiting user iteration. (90)
+ERROR [18 de Abril de 2017 - 19:44:27] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:27] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:28] [ RJAVA ] waiting user iteration. (91)
+ERROR [18 de Abril de 2017 - 19:44:28] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:28] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:29] [ RJAVA ] waiting user iteration. (92)
+ERROR [18 de Abril de 2017 - 19:44:29] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:29] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:30] [ RJAVA ] waiting user iteration. (93)
+ERROR [18 de Abril de 2017 - 19:44:30] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:30] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:31] [ RJAVA ] waiting user iteration. (94)
+ERROR [18 de Abril de 2017 - 19:44:31] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:31] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:32] [ RJAVA ] waiting user iteration. (95)
+ERROR [18 de Abril de 2017 - 19:44:32] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:32] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.0","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:33] [ RJAVA ] waiting user iteration. (96)
+ERROR [18 de Abril de 2017 - 19:44:33] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:33] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:34] [ RJAVA ] waiting user iteration. (97)
+ERROR [18 de Abril de 2017 - 19:44:34] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:34] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:35] [ RJAVA ] waiting user iteration. (98)
+ERROR [18 de Abril de 2017 - 19:44:35] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:35] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"0.7","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:36] [ RJAVA ] waiting user iteration. (99)
+ERROR [18 de Abril de 2017 - 19:44:36] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:44:36] escreveu: [STATUS]{"pid":"5850","pidJava":"5850","cpu":"1.3","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:44:37] [ RJAVA ] waiting user iteration. (100)
+ERROR [18 de Abril de 2017 - 19:44:37] [ RJAVA ] timeout para interação do usuário.
+INFO [18 de Abril de 2017 - 19:46:54] [ ARGS ][LIVE, , INFO, --vanilla]
+INFO [18 de Abril de 2017 - 19:46:54] [ RJAVA ] Creating Rengine (with arguments)
+INFO [18 de Abril de 2017 - 19:46:54] escreveu: [CONSOLE][0]
+
+INFO [18 de Abril de 2017 - 19:46:54] escreveu: [CONSOLE][0]R version 3.3.3 (2017-03-06) -- "Another Canoe"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+
+INFO [18 de Abril de 2017 - 19:46:54] escreveu: [CONSOLE][0]R é um software livre e vem sem GARANTIA ALGUMA.
+Você pode redistribuí-lo sob certas circunstâncias.
+Digite 'license()' ou 'licence()' para detalhes de distribuição.
+
+
+INFO [18 de Abril de 2017 - 19:46:54] escreveu: [CONSOLE][0]R é um projeto colaborativo com muitos contribuidores.
+Digite 'contributors()' para obter mais informações e
+'citation()' para saber como citar o R ou pacotes do R em publicações.
+
+
+INFO [18 de Abril de 2017 - 19:46:54] escreveu: [CONSOLE][0]Digite 'demo()' para demonstrações, 'help()' para o sistema on-line de ajuda,
+ou 'help.start()' para abrir o sistema de ajuda em HTML no seu navegador.
+Digite 'q()' para sair do R.
+
+
+INFO [18 de Abril de 2017 - 19:46:54] [ RJAVA ] Rengine created, waiting for R
+INFO [18 de Abril de 2017 - 19:46:54] Resultado PID: 6355 :inicializando processo de recuperação de status: 6355
+INFO [18 de Abril de 2017 - 19:46:54] processo de obtenção de status iniciado;
+INFO [18 de Abril de 2017 - 19:46:54] [ RJAVA ] Now the console is yours ... have fun
+WARNING [18 de Abril de 2017 - 19:46:54] Resultado PID: 6355 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:46:54] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:46:54] escreveu: [STATUS]{"pid":"6355","pidJava":"6355","cpu":"null","memoria":"null","disco":"2.6","jriState":"TIMED_WAITING","isAlive":true}
+INFO [18 de Abril de 2017 - 19:46:55] escreveu: [BUSY]default
+INFO [18 de Abril de 2017 - 19:46:55] escreveu: [PROMPT]> 
+WARNING [18 de Abril de 2017 - 19:46:55] [ RJAVA ] waiting user iteration. (1)
+WARNING [18 de Abril de 2017 - 19:46:55] Resultado PID: 6355 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:46:55] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:46:55] escreveu: [STATUS]{"pid":"6355","pidJava":"6355","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:46:56] [ RJAVA ] waiting user iteration. (2)
+WARNING [18 de Abril de 2017 - 19:46:56] Resultado PID: 6355 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:46:56] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:46:56] escreveu: [STATUS]{"pid":"6355","pidJava":"6355","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:46:57] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:46:57] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:46:57] linha vazia lida: [null]
+INFO [18 de Abril de 2017 - 19:47:05] [ ARGS ][LIVE, , INFO, --vanilla]
+INFO [18 de Abril de 2017 - 19:47:05] [ RJAVA ] Creating Rengine (with arguments)
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [CONSOLE][0]
+
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [CONSOLE][0]R version 3.3.3 (2017-03-06) -- "Another Canoe"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [CONSOLE][0]R é um software livre e vem sem GARANTIA ALGUMA.
+Você pode redistribuí-lo sob certas circunstâncias.
+Digite 'license()' ou 'licence()' para detalhes de distribuição.
+
+
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [CONSOLE][0]R é um projeto colaborativo com muitos contribuidores.
+Digite 'contributors()' para obter mais informações e
+'citation()' para saber como citar o R ou pacotes do R em publicações.
+
+
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [CONSOLE][0]Digite 'demo()' para demonstrações, 'help()' para o sistema on-line de ajuda,
+ou 'help.start()' para abrir o sistema de ajuda em HTML no seu navegador.
+Digite 'q()' para sair do R.
+
+
+INFO [18 de Abril de 2017 - 19:47:05] [ RJAVA ] Rengine created, waiting for R
+INFO [18 de Abril de 2017 - 19:47:05] Resultado PID: 6414 :inicializando processo de recuperação de status: 6414
+INFO [18 de Abril de 2017 - 19:47:05] processo de obtenção de status iniciado;
+INFO [18 de Abril de 2017 - 19:47:05] [ RJAVA ] Now the console is yours ... have fun
+WARNING [18 de Abril de 2017 - 19:47:05] Resultado PID: 6414 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:47:05] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [STATUS]{"pid":"6414","pidJava":"6414","cpu":"null","memoria":"null","disco":"2.6","jriState":"TIMED_WAITING","isAlive":true}
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [BUSY]default
+INFO [18 de Abril de 2017 - 19:47:05] escreveu: [PROMPT]> 
+WARNING [18 de Abril de 2017 - 19:47:06] [ RJAVA ] waiting user iteration. (1)
+WARNING [18 de Abril de 2017 - 19:47:06] Resultado PID: 6414 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:47:06] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:47:06] escreveu: [STATUS]{"pid":"6414","pidJava":"6414","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:47:07] [ RJAVA ] waiting user iteration. (2)
+WARNING [18 de Abril de 2017 - 19:47:07] Resultado PID: 6414 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:47:07] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:47:07] escreveu: [STATUS]{"pid":"6414","pidJava":"6414","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:47:08] [ RJAVA ] waiting user iteration. (3)
+WARNING [18 de Abril de 2017 - 19:47:08] Resultado PID: 6414 :não há headers ou values disponiveis para status.
+ERROR [18 de Abril de 2017 - 19:47:08] impossivel obter tamnho, de: null EX: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+INFO [18 de Abril de 2017 - 19:47:08] escreveu: [STATUS]{"pid":"6414","pidJava":"6414","cpu":"null","memoria":"null","disco":"2.6","jriState":"RUNNABLE","isAlive":true}
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
+WARNING [18 de Abril de 2017 - 19:47:08] linha vazia lida: [null]
