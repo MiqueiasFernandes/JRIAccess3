@@ -1,0 +1,26 @@
+INFO [24 de Junho de 2017 - 19:38:07] [ ARGS ][LIVE, , INFO, --vanilla]
+INFO [24 de Junho de 2017 - 19:38:08] [ RJAVA ] Creating Rengine (with arguments)
+INFO [24 de Junho de 2017 - 19:38:10] escreveu: [CONSOLE][0]
+
+INFO [24 de Junho de 2017 - 19:38:10] escreveu: [CONSOLE][0]R version 3.4.0 (2017-04-21) -- "You Stupid Darkness"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+
+INFO [24 de Junho de 2017 - 19:38:11] escreveu: [CONSOLE][0]R é um software livre e vem sem GARANTIA ALGUMA.
+Você pode redistribuí-lo sob certas circunstâncias.
+Digite 'license()' ou 'licence()' para detalhes de distribuição.
+
+
+INFO [24 de Junho de 2017 - 19:38:11] escreveu: [CONSOLE][0]R é um projeto colaborativo com muitos contribuidores.
+Digite 'contributors()' para obter mais informações e
+'citation()' para saber como citar o R ou pacotes do R em publicações.
+
+
+INFO [24 de Junho de 2017 - 19:38:11] escreveu: [CONSOLE][0]Digite 'demo()' para demonstrações, 'help()' para o sistema on-line de ajuda,
+ou 'help.start()' para abrir o sistema de ajuda em HTML no seu navegador.
+Digite 'q()' para sair do R.
+
+
+INFO [24 de Junho de 2017 - 19:38:13] [ RJAVA ] Rengine created, waiting for R
+INFO [24 de Junho de 2017 - 19:38:13] Resultado PID: 3061 :inicializando processo de recuperação de status: 3061

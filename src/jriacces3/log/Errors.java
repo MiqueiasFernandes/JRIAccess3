@@ -14,7 +14,7 @@ public enum Errors {
     ARGS_INSUFICIENTE,///////// 1
     R_VERSIOIN_ERROR,////////// 2
     THREAD_TIMEOUT,//////////// 3
-    TIMEOUT_USER_ITERATION,//// 4
+    TIMEOUT_USER_INTERATION,//// 4
     FAIL_GENERAL,////////////// 5
     LOG_INICIALIZE,//////////// 6
     LOG_WRITE,///////////////// 7

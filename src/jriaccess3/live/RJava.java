@@ -22,7 +22,7 @@ public class RJava {
     public boolean inUse = false, ocioso = false;
     private final TextConsole console;
     private final ILog log;
-    private final int timeout_iteration = 100;
+    private final int timeout_interation = 100;
     private Rengine re = null;
     private String pid = null;
     private Status status = null;
@@ -126,9 +126,9 @@ public class RJava {
             logInfo("Now the console is yours ... have fun");
             re.startMainLoop();
             log.printLog(LogType.LOG_DEBUG, "inicializando timeout user interation.tempo limite: "
-                    + timeout_iteration + " {RJava.java/51}");
+                    + timeout_interation + " {RJava.java/51}");
             int i = 0;
-            while (i++ < timeout_iteration && re.isAlive() && !inUse) {
+            while (i++ < timeout_interation && re.isAlive() && !inUse) {
                 try {
                     console.sendStatus();
                     Thread.sleep(1000);
@@ -142,7 +142,7 @@ public class RJava {
                 log.printLog(LogType.LOG_DEBUG, "encerrando rengine, não esta em uso. {RJava.java/64}");
                 re.end();
                 logError("timeout para interação do usuário.");
-                System.exit(Errors.TIMEOUT_USER_ITERATION.ordinal());
+                System.exit(Errors.TIMEOUT_USER_INTERATION.ordinal());
             }
         } else {
             logError("erro desconhecido.");
